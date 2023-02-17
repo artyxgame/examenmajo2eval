@@ -1,0 +1,35 @@
+header.cabecera1 {
+    text-align: center;
+    background-color: lightpink;
+    color: blue;
+}
+a:active {
+    background-color: yellow;
+    color: black;
+}
+p.main {
+    text-align: center;
+    background-color: aliceblue;
+}
+p.anterioirs {
+    display: inline-block;
+    background-color: lightsalmon;
+}
+p.nominats {
+    display: inline-block;
+    background-color: lightseagreen;
+}
+p.contacte {
+    display: inline-block;
+    background-color: lightsalmon;
+}
+footer.inicial {
+    text-align: center;
+    background-color: yellow;
+    color: blue;
+}
+p.contacto {
+    text-align: center;
+    background-color: lightsalmon;
+    color: blue;
+}
